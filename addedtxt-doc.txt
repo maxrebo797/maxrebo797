@@ -4,3 +4,5 @@ now I changed this on the github online
 and will fetch from desktop
 once more
 and now from the repo on desktop through visual studio code
+
+- added same content in 2 files 

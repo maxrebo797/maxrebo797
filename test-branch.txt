@@ -2,3 +2,5 @@ this is a test to see what happens
 i created this file in vs code andwill check on github desktop
 it pops as asoon as I save
 now i need to add comments and commit
+
+- added same content in 2 files 
